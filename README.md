@@ -5,23 +5,23 @@ Atliq Technologies HR generalist sought insights from the attendance data , coll
 Data source:The Atliq Employees attendance data was provided in the form of an Excel File.The data underwent Extract,Transform,and Load (ETL) operations to prepare it for analysis.
 # Project Highlights
 1. Understanding the Problem
-- Defined the scope of the analysis, focusing on attendance patterns, retention strategies, and sick leave percentages.
+   - Defined the scope of the analysis, focusing on attendance patterns, retention strategies, and sick leave percentages.
 2. Data Gathering and Transformations
-- Collected the attendance data from the provided Excel file
-- Utilized ETL operations to clean and transform the data into a suitable format for analysis.
+   - Collected the attendance data from the provided Excel file
+   - Utilized ETL operations to clean and transform the data into a suitable format for analysis.
    
-   Some data cleaning methods applied are:
-   1. Using the first row as headers
-   2. Removing unnecessary top first row
-   3. Unpivoting columns
-   4. Managing parameters
-   5. Creating and invoking a function
-   6. Changing data types
+      Some data cleaning methods applied are:
+      1. Using the first row as headers
+      2. Removing unnecessary top first row
+      3. Unpivoting columns
+      4. Managing parameters
+      5. Creating and invoking a function
+      6. Changing data types
 3. Created metrics using DAX
-- Implemented Data Analysis Expressions(DAX) to create key metrics ,including attendance percentages, sick leave percentages, WFH percentages and more.
+   - Implemented Data Analysis Expressions(DAX) to create key metrics ,including attendance percentages, sick leave percentages, WFH percentages and more.
 4. Dashboarding with Powerbi Desktop
-- Utilized PowerBi desktop to visualize the data and create interactive dashboards.
-- Developed visualisations to provide insights into attendance trends, sick leave reasons, WFH  vs WFO percentages, and more.
+   - Utilized PowerBi desktop to visualize the data and create interactive dashboards.
+   - Developed visualisations to provide insights into attendance trends, sick leave reasons, WFH  vs WFO percentages, and more.
 # Key Metrics
 1. Attendance %: We calculated and visualized the overall attendance percentages,providing a clear view of workforce presence.
 2. WFH % (Work From Home):In today’s dynamic work environment,we evaluated the Work from Home percentage to understand the flexible work culture’s impact.
