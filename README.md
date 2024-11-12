@@ -5,7 +5,7 @@ Atliq Technologies HR generalist sought insights from the attendance data , coll
 Data source:The Atliq Employees attendance data was provided in the form of an Excel File.The data underwent Extract,Transform,and Load (ETL) operations to prepare it for analysis.
 # Project Highlights
 1. Understanding the Problem
-        - Defined the scope of the analysis, focusing on attendance patterns, retention strategies, and sick leave percentages.
+        -  Defined the scope of the analysis, focusing on attendance patterns, retention strategies, and sick leave percentages.
 2. Data Gathering and Transformations
            - Collected the attendance data from the provided Excel file
            - Utilized ETL operations to clean and transform the data into a suitable format for analysis.
