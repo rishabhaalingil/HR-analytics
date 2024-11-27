@@ -28,7 +28,7 @@ Data source:The Atliq Employees attendance data was provided in the form of an E
 3. Sick Leave %(SL %): Tracking sick leave percentages is vital for employee health and organisational planning.
 4. Individual Employee Analysis: Detailed insights into the attendance patterns of each employee.
 
-   #### Benefits
+   ### Benefits
    1. Data-Driven Decisions: Helps HR make informed decisions on resource allocation and employee management.
    2. Trend Analysis: Identifies patterns and trends in attendance and work-from-home practices.
    3. Employee Insights: Provides granular data to help understand individual employee attendance.
