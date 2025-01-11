@@ -22,6 +22,8 @@ Data source:The Atliq Employees attendance data was provided in the form of an E
 4. Dashboarding with Powerbi Desktop
    - Utilized PowerBi desktop to visualize the data and create interactive dashboards.
    - Developed visualisations to provide insights into attendance trends, sick leave reasons, WFH  vs WFO percentages, and more.
+# Live Dashboard
+Explore the live dashboard [here](https://app.powerbi.com/links/CIkM9ohOu5?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare).
 # Key Metrics
 1. Attendance %: We calculated and visualized the overall attendance percentages,providing a clear view of workforce presence.
 2. WFH % (Work From Home):In today’s dynamic work environment,we evaluated the Work from Home percentage to understand the flexible work culture’s impact.
