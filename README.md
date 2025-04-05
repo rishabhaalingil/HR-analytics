@@ -2,6 +2,7 @@
 The HR analytics project at codebasics focuses on addressing the challenges posed by the manual handling and analysis of employee attendance at Atliq Technologies. Currently stored in Excel Sheets ,the three month attendance data requires a more efficient and user-friendly solution for the HR team. The goal is to develop a comprehensive dashboard using PowerBi, enabling seamless analysis of attendance data and facilitating organisational planning for events, meetings, team activities, and other essential HR functions.
 # Problem Statement
 Atliq Technologies HR generalist sought insights from the attendance data , collected in key format over the last 3 months. The objective was to gain insights into employee attendance patterns, determine retention strategies, and to identify reasons behind sick leaves percentages.Additionally, the analysis aimed to be different between Work From Home(WFH) and Work From Office(WFO) percentages.
+
 Data source:The Atliq Employees attendance data was provided in the form of an Excel File.The data underwent Extract,Transform,and Load (ETL) operations to prepare it for analysis.
 # Project Highlights
 1. Understanding the Problem
